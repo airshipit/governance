@@ -111,7 +111,7 @@ appoint a Lead at their own discretion and using their own process to help be a 
 Representatives are expected to be active contributors who are committed to the health and success of the project. It is
 comprised of 5 members, who are elected by an election process.
 
-Working Committee elections take place once in June (5 seats available). Anyone who is a Contributor (as defined above)
+Working Committee elections take place in August (5 seats available). Anyone who is a Contributor (as defined above)
 before the election will be eligible to run. Core Reviewers of projects will be eligible to vote. There are no term
 limits, but in order to encourage diversity, no more than 2 of the 5 seats can be filled by any one organization. The
 Working Committee will meet regularly in an open forum with times and locations published in
