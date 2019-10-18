@@ -90,6 +90,10 @@ The Technical Committee is responsible to meet and ensure Airship projects are a
 promote standardization, define and organize the Airship versioning and release process. It is comprised of 5 members,
 who are elected by an election process.
 
+In the event of a dispute on topics falling strictly in the domain of Technical Committee responsibilities,
+the Technical Committee will be responsible for abritrating. For a resolution to be confirmed, a
+super majority (2/3) vote (rounded up to nearest whole number) of the Technical Committee is required.
+
 Technical Committee elections take place in June (5 seats available). Anyone who has demonstrated a commitment to Airship
 (community building, communications, or had code merged to the Airship project repositories) within the last 12 months is
 eligible to run for the Technical Committee. Anyone who is a Contributor (as defined above) before the election will be
@@ -110,6 +114,10 @@ Committee should be the group that can speak externally on behalf of Airship and
 appoint a Lead at their own discretion and using their own process to help be a singular external voice of the project.
 Representatives are expected to be active contributors who are committed to the health and success of the project. It is
 comprised of 5 members, who are elected by an election process.
+
+In the event of a dispute on topics falling strictly in the domain of Working Committee responsibilities,
+the Working Committee will be responsible for abritrating. For a resolution to be confirmed, a
+super majority (2/3) vote (rounded up to nearest whole number) of the Working Committee is required.
 
 Working Committee elections take place in August (5 seats available). Anyone who is a Contributor (as defined above)
 before the election will be eligible to run. Core Reviewers of projects will be eligible to vote. There are no term
@@ -139,3 +147,11 @@ The project’s formal governance document is maintained in the [airship-governa
 repository. Changes to the document can be proposed by any project Contributor but would need to be ratified by the
 Working Committee with a super-majority (2/3rds) vote. The Working Committee should strive for consensus for any change
 to the project’s formal governance.
+
+## Disputes Across Committees
+
+Each of the Technical and Working Committees are expected to arbitrate disputes pertaining to topics that are related
+strictly to those covered by the respective committees responsibilities. If a dispute arises that is unclear on
+ownership of the topic, or spans multiple topics, both the Technical and Working Committees will be responsible for
+working together for a resolution.  The resolution will require a super majority vote (2/3) of all committee members
+(rounded up to nearest whole number).
