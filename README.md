@@ -101,6 +101,9 @@ The exact size and model for the Technical Committee may evolve over time based 
 but the governing body will always be committed to openness, diversity and the principle that technical contributors make
 technical decisions.
 
+Elections take place each June. The candidates and elected members to the Technical Committee can be
+found at [airship-election](https://opendev.org/airship/election).
+
 ### Working Committee
 
 The Working Committee is intended to help influence the project strategy, help arbitrate when there is a disagreement
@@ -121,6 +124,9 @@ The exact size and model for the Working Committee may evolve over time based on
 the governing body will always be committed to openness, diversity and the principle that technical contributors make
 technical decisions. There is opportunity for more contributors to get involved in various sub-teams working on specific
 topics, such as product management or conformance.
+
+Elections take place each August. The candidates and elected members to the Working Committee can be
+found at [airship-election](https://opendev.org/airship/election).
 
 ### Committee Elections
 
