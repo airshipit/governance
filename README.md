@@ -147,6 +147,14 @@ appointing an individual to a position in the project, not a company or organiza
 continue to support the project in the event of career changes unless they notify the project that they are resigning
 their position.
 
+### Special Committee Elections
+
+In the event that a committee seat is vacated before the end of a term a special election will be held to fill that seat.
+Special elections will begin the first week of the month following a vacancy in a seat. The same format and rules
+applied to the standard election process as defined above will also apply to the special election.  The term of an individual
+elected via a special election will be the remainder of the original seat's term. Special elections will not be held in the
+same month as a standard election, instead the vacant seat will be filled via a standard election process.
+
 ## Governance Changes
 
 The project’s formal governance document is maintained in the [airship-governance](https://opendev.org/airship/governance)
