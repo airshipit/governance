@@ -136,6 +136,15 @@ topics, such as product management or conformance.
 Elections take place each August. The candidates and elected members to the Working Committee can be
 found at [airship-election](https://opendev.org/airship/election).
 
+### Grandfather Clause
+
+Both the Technical and Working Committees follow a rule that no more than 2 seats per committee can be
+filled by individuals from the same employer. This rule applies to all elections.
+
+The grandfather clause is to recognize that an elected committee member may have a change of employer during their term.
+In those circumstances the committee member will be allowed to serve the remainder of their elected term regardless of
+employer representation on the committee. The established rules will be used when seeking re-election.
+
 ### Committee Elections
 
 All elections for committee positions in Airship shall follow standard OpenStack procedures and methods. Ballots will be
