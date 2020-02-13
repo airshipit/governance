@@ -156,6 +156,11 @@ appointing an individual to a position in the project, not a company or organiza
 continue to support the project in the event of career changes unless they notify the project that they are resigning
 their position.
 
+Each committee is responsible for organizing, running, and reporting the results of each election for the opposite
+committee.  For example:
+- The Technical Committee is responsible for organizing and running the Working Committee elections.
+- The Working Committee is responsible for organizing and running the Technical Committee elections.
+
 ### Special Committee Elections
 
 In the event that a committee seat is vacated before the end of a term a special election will be held to fill that seat.
