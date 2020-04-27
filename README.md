@@ -1,19 +1,31 @@
-Airship Governance
-==================
+# Airship Governance
 
 * [About Airship](#about-airship)
 * [Community](#community)
-	* [Join Us](#join-us)
-	* [Users](#users)
-	* [Contributors](#contributors)
-* [Governance](#governance)
-	* [Developers](#developers)
-	* [Contributor](#contributor)
-	* [Maintainer](#maintainer)
-	* [Technical Committee](#architecture-committee)
-	* [Working Committee](#working-committee)
 
-# About Airship
+  * [Join Us](#join-us)
+  * [Users](#users)
+  * [Contributing](#contributing)
+
+* [Governance](#governance)
+
+  * [Developers](#developers)
+
+    * [Contributor](#contributor)
+    * [Core Reviewer](#core-reviewer)
+
+  * [Committees](#committees)
+
+    * [Technical Committee](#architecture-committee)
+    * [Working Committee](#working-committee)
+
+  * [Grandfather Clause](#grandfather-clause)
+  * [Committee Elections](#committee-elections)
+  * [Special Committee Elections](#special-committee-elections)
+  * [Governance Changes](governance-changes)
+  * [Disputes Across Committees](#disputes-across-committees)
+
+## About Airship
 
 Airship is a community of open source projects working to build a platform for the lifecycle management of open
 infrastructure. It's designed from the ground up to make containers and Helm charts the fundamental units of software
@@ -22,30 +34,27 @@ delivery and deployment.
 An Airship feeds a collection of declarative site definition YAMLs through a single front door API, and then uses them to
 drive end-to-end provisioning of a site, from bare metal to fully functioning cloud.
 
-# Community
+## Community
 
 Airship is working to build a global, diverse and collaborative community. Anyone interested in supporting the technology
 is welcome to participate. We are seeking different expertise and skills, ranging from development, operations,
 documentation, marketing, community organization and product management.
 
-## Join Us
+### Join Us
 
 You can join our community on any of the following places:
 
 * Visit our [website](https://airshipit.org)
-
 * Join our [mailing list](http://lists.airshipit.org).
-
 * Use the `irc.freenode.net` IRC server to join the discussions:
+
   * General/Dev discussions channel: [`#airshipit`](http://webchat.freenode.net/?channels=airshipit)
 
 * Join our [weekly meetings](http://eavesdrop.openstack.org/#Airship_Team_Meeting)
-
 * Get [in touch](https://wiki.openstack.org/wiki/Airship#Get_in_Touch) with us
-
 * Follow us on [Twitter](https://twitter.com/airshipproject)
 
-## Users
+### Users
 
 See [Airship in a bottle](https://opendev.org/airship/airship-in-a-bottle) for details on how to install Airship
 inside a VM and take it for a test drive.
@@ -53,38 +62,38 @@ inside a VM and take it for a test drive.
 See [Airship Treasuremap](https://opendev.org/airship/treasuremap) for sample manifests that are CI/CD tested on real
 baremetal infrastructure you can use as a starting place for your own environments.
 
-## Contributing
+### Contributing
 
 See the [contributing guide](CONTRIBUTING.md) for details on how to contribute to the project.
 
-# Governance
+## Governance
 
 The Airship project is governed according to the [“four opens"](https://governance.openstack.org/tc/reference/opens.html),
 which are open source, open design, open development, and open community. Technical decisions are made by technical
 contributors and a representative Technical Committee. The community is committed to diversity, openness, and encouraging
 new contributors and leaders to rise up.
 
-## Developers
+### Developers
 
 For code contributors, there are currently two roles relevant to project governance:
 
-### Contributor
+#### Contributor
 
 A Contributor to the Airship project is someone who has had changes merged within the last 12 months. Contributors are
 eligible to vote in the Technical Committee elections. Contributors do not have merging rights on Airship repositories.
 
-### Core Reviewer
+#### Core Reviewer
 
 A Core Reviewer has the ability to merge code into the Airship project. Core Reviewers are active Contributors and
 participants in the projects.  Any Core Reviewer can nominate someone to be a Core Reviewer for a particular Airship
 project, but the nominee must be approved by the existing Core Reviewers for that project. Core Reviewers are added
 on an "as needed" basis determined by the core team or Technical Committee group.
 
-## Committees
+### Committees
 
 There are two committees responsible for helping to guide Airship projects:
 
-### Technical Committee
+#### Technical Committee
 
 The Technical Committee is responsible to meet and ensure Airship projects are adhering to the projects core principles,
 promote standardization, define and organize the Airship versioning and release process. It is comprised of 5 members,
@@ -108,7 +117,7 @@ technical decisions.
 Elections take place each June. The candidates and elected members to the Technical Committee can be
 found at [airship-election](https://opendev.org/airship/election).
 
-### Working Committee
+#### Working Committee
 
 The Working Committee is intended to help influence the project strategy, help arbitrate when there is a disagreement
 between Core Reviewers within a single project or between Airship projects, define the project core principles, perform
@@ -169,14 +178,14 @@ applied to the standard election process as defined above will also apply to the
 elected via a special election will be the remainder of the original seat's term. Special elections will not be held in the
 same month as a standard election, instead the vacant seat will be filled via a standard election process.
 
-## Governance Changes
+### Governance Changes
 
 The project’s formal governance document is maintained in the [airship-governance](https://opendev.org/airship/governance)
 repository. Changes to the document can be proposed by any project Contributor but would need to be ratified by the
 Working Committee with a super-majority (2/3rds) vote. The Working Committee should strive for consensus for any change
 to the project’s formal governance.
 
-## Disputes Across Committees
+### Disputes Across Committees
 
 Each of the Technical and Working Committees are expected to arbitrate disputes pertaining to topics that are related
 strictly to those covered by the respective committees responsibilities. If a dispute arises that is unclear on
