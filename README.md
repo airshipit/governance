@@ -21,6 +21,7 @@
 
   * [Grandfather Clause](#grandfather-clause)
   * [Committee Elections](#committee-elections)
+  * [Tie Breaking](#tie-breaking)
   * [Special Committee Elections](#special-committee-elections)
   * [Governance Changes](governance-changes)
   * [Disputes Across Committees](#disputes-across-committees)
@@ -159,7 +160,7 @@ employer representation on the committee. The established rules will be used whe
 All elections for committee positions in Airship shall follow standard OpenStack procedures and methods. Ballots will be
 distributed to each Contributor’s (or in the case of the Working Committee, Core's) primary email address. Elections will
 be held using CIVS and a Condorcet algorithm (Schulze/Beatpath/CSSD variant). Any tie will be broken using Governance
-TieBreaking. In the event that a candidate runs unopposed for a position, the TSC can waive a formal vote. Membership in
+Tie Breaking. In the event that a candidate runs unopposed for a position, the TSC can waive a formal vote. Membership in
 the Foundation itself is not a requirement for holding an elected position though it is preferred. Elections are
 appointing an individual to a position in the project, not a company or organization. Individuals are expected to
 continue to support the project in the event of career changes unless they notify the project that they are resigning
@@ -169,6 +170,13 @@ Each committee is responsible for organizing, running, and reporting the results
 committee.  For example:
 - The Technical Committee is responsible for organizing and running the Working Committee elections.
 - The Working Committee is responsible for organizing and running the Technical Committee elections.
+
+### Tie Breaking
+
+Airship elections use a Condorcet algorithm (Schulze/Beatpath/CSSD variant) to determine winners of an election. In
+exceedingly rare cases, it is possible to have a tie for the last seat of a committee. In such an event, that tie will
+be broken by the committee that is responsible for organizing, running, and reporting the results of the election by a
+majority vote.
 
 ### Special Committee Elections
 
