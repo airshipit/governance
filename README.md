@@ -39,7 +39,8 @@ drive end-to-end provisioning of a site, from bare metal to fully functioning cl
 
 Airship is working to build a global, diverse and collaborative community. Anyone interested in supporting the technology
 is welcome to participate. We are seeking different expertise and skills, ranging from development, operations,
-documentation, marketing, community organization and product management.
+documentation, marketing, community organization and product management. The core principles of the Airship community
+can be found [here](principles.md).
 
 ### Join Us
 
